@@ -1,1 +1,3 @@
 Test text for staging / committing to GitHub.
+
+For a cheatsheet please see: https://www.theodinproject.com/lessons/foundations-git-basics#cheatsheet
